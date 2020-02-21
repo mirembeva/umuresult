@@ -1,0 +1,37 @@
+.faculty{
+    background-color: violet;
+    size: 20px;
+    
+}
+
+h1{
+    color: tomato;
+}
+
+.extra{
+    text-decoration:line-through;
+}
+
+.main{
+    display: flex;
+    width: 100%;
+}
+
+.white{
+    flex-basis: 50%;
+    border: 5px blue solid;
+    background-color:red;
+}
+
+
+.blue{
+    flex-basis: 50%;
+    border: 5px yellow solid;
+}
+
+.shape{
+    height: 500px;
+    width: 500px;
+    background-color: red;
+    border-radius: 50%;
+}

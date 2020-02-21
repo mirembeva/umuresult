@@ -1,0 +1,32 @@
+.shape{
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+    background-color:red;
+    margin:auto
+}
+
+
+
+.main{
+    background-color:maroon;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+
+ol{
+    display: flex;
+    list-style-type: none;
+}
+
+li{
+    padding-right: 10px;
+}
+
+.button{
+    background-color: red;
+    border-radius: 5px;
+}
+
+

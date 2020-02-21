@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="frontendstyle.css">
+</head>
+<body>
+    <div class="main">
+        <div class="leftdiv"><h1>Frontend Master</h1></div>
+        <div class="rightdiv">
+            <ol>
+                <li>Courses</li>
+                <li>Learn</li>
+                <li>Pricing</li>
+                <li>Login</li>
+                <li><button class="button">Join Now</button></li>
+
+            </ol>
+        </div>
+
+    </div>
+    <br>
+    <br>
+    <div class="shape" id="shape"><br><br>
+        
+        <p>It</p>
+        <p>business admin</p>
+    </div>
+    <button id="hide">hide</button>
+        <br><br>
+        <button id="show">Show</button>
+
+<script type="text/javascript">
+let shape=document.getElementById('shape');
+let show=document.getElementById('show');
+let hide=document.getElementById('hide');
+
+hide.onclick=function(){
+    shape.style.display='none';
+}
+
+show.onclick=function(){
+    shape.style.display='block';
+}
+
+
+</script>
+
+</body>
+</html>

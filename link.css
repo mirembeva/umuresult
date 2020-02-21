@@ -1,0 +1,61 @@
+.main{
+    height: 100%;
+    background-color: green;
+    border: chartreuse 5px solid;
+    display: flex;
+}
+
+.bluediv{
+    border: blue solid 5px;
+    height: 100%;
+    flex-basis: 50%;
+}
+
+.whitediv{
+    border: red solid 5px;
+    height: 100%;
+    flex-basis: 50%;
+
+}
+
+ol{
+    display: flex;
+    list-style-type: none;
+}
+
+li
+
+
+a{
+    text-decoration: none;
+    color: crimson;
+    padding-right: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
+
+a:hover{
+    background-color: black;
+    color: white;
+    
+}
+
+a:visited{
+color: green;
+}
+
+
+
+/*li a{
+    text-decoration: none;
+    color: crimson;
+    display: block;
+
+}
+
+a:hover{
+    background-color: black;
+    color: white;
+}
+*/   xxxx

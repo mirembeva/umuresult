@@ -1,0 +1,89 @@
+body{
+    background-color: #d8d9db;
+}
+
+.headerdiv{
+    display: flex;
+}
+
+.logo{
+    width: 100px;
+    padding-right: 15px;
+}
+
+.maroondiv{
+    background-color:#600;
+    width: 100%;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    box-sizing: border-box;
+    word-spacing: 20px;
+
+}
+
+hr{
+    background-color: #600;
+   
+}
+.heading2{
+    color: #600;
+    font-size:30px;
+    text-align: center;
+    font-style: Arial Unicode MS;
+}
+.head2div{
+    background-color: white;
+}
+.loginform{
+    width: 40%;
+    margin: 0 auto;
+    padding:40px;
+    background-color: white;
+    border-radius: 20px;
+    color: #600;
+    font-size: 20px;
+    font-style: arial;
+    
+   }
+
+   .textbox{
+    width: 500px;
+    border-radius: 6px;
+    padding: 10px;
+    background-color: #d8d9db;
+}
+.label1{
+    color: #600;
+ 
+
+}
+
+.button2{
+    background-color: #600;
+    width: 100px;
+    padding: 10px;
+    border-radius: 12px;
+    border:#600;
+    font-size: 17px;
+    color: white;
+}
+
+.forgotpass {
+    color:#600;
+    font-size: 20px;
+    padding-left: 20px;
+ 
+}
+
+footer{
+    background-color: #600;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    padding:25 0 25 0;
+}
+
+.main{
+    padding-bottom: 20px;
+}
